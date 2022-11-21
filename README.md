@@ -1,3 +1,3 @@
-# wtarmstrong.github.io
+# wilson-armstrong.github.io
  Trying out pages
-[wtarmstrong.github.io](https://wtarmstrong.github.io)
+[wilson-armstrong.github.io](https://wilson-armstrong.github.io)
